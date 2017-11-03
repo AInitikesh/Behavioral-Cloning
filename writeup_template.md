@@ -116,7 +116,7 @@ To augment the data sat, I also flipped images and angles thinking that this wou
 
 Etc ....
 
-After the collection process, I had 36171 number of data points. I then preprocessed this data by cropping the data on top sky and bottom car hood.
+After the collection process, I had 36171 number of data points. I then preprocessed this data by normalizing and cropping the image on top sky and bottom car hood.
 
 
 I finally randomly shuffled the data set and put 20% of the data into a validation set. 
